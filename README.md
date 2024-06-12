@@ -12,6 +12,7 @@
 | [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1635-number-of-good-pairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1839-decode-xored-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Hash Table
@@ -80,3 +81,15 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+# Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
