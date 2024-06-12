@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 # Hash Table
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
 # Sorting
 |  |
 | ------- |
@@ -27,4 +29,9 @@
 # Greedy
 |  |
 | ------- |
+| [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+# Two Pointers
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
