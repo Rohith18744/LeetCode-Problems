@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0409-longest-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
 # Sorting
@@ -57,6 +58,7 @@
 # Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [1635-number-of-good-pairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Backtracking
