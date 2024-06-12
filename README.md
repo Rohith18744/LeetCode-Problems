@@ -9,6 +9,7 @@
 | [0890-lemonade-change](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1839-decode-xored-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 # Hash Table
 |  |
 | ------- |
@@ -37,3 +38,7 @@
 |  |
 | ------- |
 | [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1839-decode-xored-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1839-decode-xored-array) |
