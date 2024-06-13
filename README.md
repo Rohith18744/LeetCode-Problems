@@ -29,6 +29,7 @@
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0409-longest-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0409-longest-palindrome) |
@@ -66,6 +67,7 @@
 # Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -84,6 +86,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Prefix Sum
 |  |
