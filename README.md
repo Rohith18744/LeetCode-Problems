@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@
 # Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0046-permutations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Combinatorics
 |  |
