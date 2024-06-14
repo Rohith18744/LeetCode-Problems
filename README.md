@@ -61,6 +61,7 @@
 # Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [1635-number-of-good-pairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Prefix Sum
 |  |
@@ -104,3 +106,7 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0070-climbing-stairs) |
