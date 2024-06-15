@@ -34,6 +34,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0409-longest-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [1250-longest-common-subsequence](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 # Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0070-climbing-stairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 # Prefix Sum
 |  |
 | ------- |
