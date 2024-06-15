@@ -24,6 +24,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [1319-unique-number-of-occurrences](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -55,6 +56,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
 # Bit Manipulation
 |  |
@@ -67,6 +69,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 # Backtracking
