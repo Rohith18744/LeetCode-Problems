@@ -18,6 +18,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1839-decode-xored-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 # Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0409-longest-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0979-di-string-match](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1250-longest-common-subsequence](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 # Sorting
 |  |
 | ------- |
