@@ -132,6 +132,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -180,4 +181,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
