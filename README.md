@@ -134,6 +134,7 @@
 | [0027-remove-element](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
