@@ -132,6 +132,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
@@ -151,6 +152,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
 ## String
