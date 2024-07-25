@@ -140,6 +140,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -153,6 +154,7 @@
 | [0141-linked-list-cycle](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
