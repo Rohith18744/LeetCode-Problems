@@ -192,6 +192,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -203,6 +204,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
