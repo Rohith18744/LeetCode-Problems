@@ -130,6 +130,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0031-next-permutation) |
@@ -164,6 +165,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -222,6 +224,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
