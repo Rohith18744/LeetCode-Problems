@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
