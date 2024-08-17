@@ -180,6 +180,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -261,4 +263,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
