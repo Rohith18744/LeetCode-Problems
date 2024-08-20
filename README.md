@@ -184,6 +184,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
@@ -265,6 +267,7 @@
 | [0007-reverse-integer](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
