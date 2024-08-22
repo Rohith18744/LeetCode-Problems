@@ -194,6 +194,7 @@
 | [0013-roman-to-integer](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -225,6 +226,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
