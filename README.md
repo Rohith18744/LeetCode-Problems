@@ -198,6 +198,7 @@
 | [0020-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -303,6 +305,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
