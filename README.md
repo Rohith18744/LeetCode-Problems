@@ -141,6 +141,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -221,6 +222,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -330,4 +333,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
