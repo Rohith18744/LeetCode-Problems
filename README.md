@@ -144,6 +144,7 @@
 | [0037-sudoku-solver](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -226,6 +227,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
