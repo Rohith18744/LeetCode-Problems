@@ -210,6 +210,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0680-valid-palindrome-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
@@ -259,6 +261,7 @@
 | [0010-regular-expression-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -326,6 +329,7 @@
 | [0010-regular-expression-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
