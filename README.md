@@ -146,6 +146,7 @@
 | [0040-combination-sum-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
@@ -330,6 +332,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
