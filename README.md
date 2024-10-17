@@ -158,6 +158,7 @@
 | [0283-move-zeroes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -198,6 +199,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
 ## String
 |  |
@@ -371,4 +373,16 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0043-multiply-strings) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
