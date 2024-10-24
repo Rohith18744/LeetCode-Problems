@@ -161,6 +161,7 @@
 | [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0045-jump-game-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
