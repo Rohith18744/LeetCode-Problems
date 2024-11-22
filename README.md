@@ -261,6 +261,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -279,6 +280,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
