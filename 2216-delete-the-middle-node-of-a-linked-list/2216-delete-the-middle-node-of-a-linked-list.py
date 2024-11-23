@@ -10,22 +10,17 @@ class Solution:
         if not head or not head.next:
             return None
 
+        
+        slow = head
+        fast = head
+        prev = None
+
+        while fast and fast.next:
+            prev = slow         
+            slow = slow.next   
+            fast = fast.next.next 
+
        
-        length = 0
-        curr = head
-        while curr:
-            length += 1
-            curr = curr.next
-
-        
-        mid = length // 2
-
-        
-        curr = head
-        for _ in range(mid - 1):
-            curr = curr.next
-
-      
-        curr.next = curr.next.next
+        prev.next = slow.next
 
         return head
