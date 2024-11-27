@@ -282,6 +282,7 @@
 | [0020-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -399,6 +400,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
@@ -408,4 +410,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
