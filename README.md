@@ -294,6 +294,7 @@
 | [0044-wildcard-matching](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [0013-roman-to-integer](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [2050-count-good-numbers](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
