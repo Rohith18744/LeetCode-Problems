@@ -161,6 +161,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -210,6 +211,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -394,6 +396,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -424,4 +427,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
