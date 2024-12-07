@@ -160,6 +160,7 @@
 | [0283-move-zeroes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -342,12 +343,14 @@
 | [0148-sort-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
