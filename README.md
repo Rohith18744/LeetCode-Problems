@@ -463,6 +463,7 @@
 | [0226-invert-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -480,6 +481,7 @@
 | [0226-invert-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -499,6 +501,7 @@
 | [0226-invert-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -517,4 +520,5 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
