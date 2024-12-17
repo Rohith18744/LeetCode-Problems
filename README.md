@@ -210,6 +210,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
@@ -325,6 +326,7 @@
 | [0029-divide-two-integers](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
@@ -467,6 +469,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -518,6 +521,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
