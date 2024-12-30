@@ -508,6 +508,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -554,6 +555,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -563,4 +565,12 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0538-convert-bst-to-greater-tree) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
