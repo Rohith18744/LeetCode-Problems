@@ -511,6 +511,7 @@
 | [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -558,6 +559,7 @@
 | [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -569,8 +571,10 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
