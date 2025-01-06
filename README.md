@@ -159,6 +159,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -428,6 +429,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -502,6 +504,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -555,6 +558,7 @@
 | [0112-path-sum](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -572,6 +576,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 ## Graph
