@@ -167,6 +167,7 @@
 | [0506-relative-ranks](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0729-my-calendar-i](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0792-binary-search) |
+| [0917-boats-to-save-people](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0978-valid-mountain-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0978-valid-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Rohith18744/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -201,6 +202,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0953-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -255,6 +257,7 @@
 | [0045-jump-game-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Rohith18744/LeetCode-Problems/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
@@ -360,6 +363,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0917-boats-to-save-people](https://github.com/Rohith18744/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
